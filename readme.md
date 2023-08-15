@@ -1,7 +1,7 @@
 ### Hello,World!!
 
-#Undergraduate at Bits Goa.
+## Undergraduate at Bits Goa.
 
-#I use Java,C and Javascript.
+## I use Java,C and Javascript.
 
-#Pronouns He/Him.
+## Pronouns He/Him.
