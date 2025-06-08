@@ -2,6 +2,6 @@
 
 ## Undergraduate at Bits Goa.
 
-## I use Java,C and Python.
+## I use Java and Python.
 
 ## Pronouns He/Him.
